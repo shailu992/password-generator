@@ -12,8 +12,7 @@ Design Phase:
 • The layout was structured using JPanel with a GridLayout to arrange components.
 • The structure followed an object-oriented approach, ensuring modularity and reusability.
 
-![image](https://github.com/user-attachments/assets/0bcbff75-10e1-4c5e-aa80-4d186be17669)
-
+![Screenshot 2025-03-11 202938](https://github.com/user-attachments/assets/6adc8f55-9cb9-481b-8bba-499e1729bcff)
 ![Screenshot 2025-03-11 213058](https://github.com/user-attachments/assets/c34212c9-0b64-4dbb-bd6c-b4875b50896d)
 
 
